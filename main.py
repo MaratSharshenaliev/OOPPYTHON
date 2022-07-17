@@ -88,12 +88,7 @@ class Student:
     def setGroupNumber(self, NewGroup):
         self.__groupNumber = str(NewGroup)
 
-
-res = Student()
-res.getGroupNumber()
-
-
-color(цвет), type(тип), year(год)
+# color(цвет), type(тип), year(год)
 class Car:
     def __init__(self, name, typeOfAuto, year, color):
         self.__name = name
